@@ -1,4 +1,6 @@
-### Hi, I'm Anurag 👋
+<img align="right" src="https://github.com/codin-champ/codin-champ/blob/main/ezgif.com-gif-maker.gif">
+
+### Hi, I'm Anurag <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <!--
 **codin-champ/codin-champ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* 🔭 I'm currently working on **C++ and Assembly Language**
-* 🌱 I'm Currently Learning **Computer System Organization and Web Development**
+
+
+* 🔭 I'm currently working on **My Problem Solving Skills**
+* 🌱 I'm Currently Learning **Advanced Data Structures and Web Development**
 * 👯 I'm looking forward to **Start contributing in Open Source**
 * 😄 I love **Learning new things**
 * ⚡ Fun fact: **Always ready to chat**
